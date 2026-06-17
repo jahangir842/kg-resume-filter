@@ -1,0 +1,17 @@
+Jane Doe
+jane.doe@example.com
+
+Summary
+ML engineer with 6 years building production ML systems.
+
+Skills
+Python, PyTorch, scikit-learn, Docker, Neo4j, Pandas, FastAPI
+
+Experience
+Machine Learning Engineer, DataCorp (2020 - present)
+  Built deep learning models and deployed them in containers.
+Software Engineer, WebStart (2018 - 2020)
+  Backend services in Python.
+
+Education
+BSc Computer Science, State University, 2018

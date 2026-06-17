@@ -1,0 +1,69 @@
+{
+  "skills": [
+    "Python", "Java", "JavaScript", "TypeScript", "Go", "C++", "SQL",
+    "Machine Learning", "Deep Learning", "Deep Learning Framework",
+    "PyTorch", "TensorFlow", "scikit-learn", "NLP", "Computer Vision",
+    "Knowledge Graphs", "Neo4j", "Cypher", "GraphQL", "REST API",
+    "Containerization", "Docker", "Kubernetes", "CI/CD",
+    "Cloud", "AWS", "GCP", "Azure",
+    "Data Engineering", "ETL", "Apache Spark", "Pandas",
+    "Frontend", "React", "Backend", "FastAPI", "Django",
+    "Reasoning Systems", "Ontology Engineering"
+  ],
+  "alias_of": [
+    ["React.js", "React"],
+    ["ReactJS", "React"],
+    ["JS", "JavaScript"],
+    ["TS", "TypeScript"],
+    ["K8s", "Kubernetes"],
+    ["Postgres", "SQL"],
+    ["PostgreSQL", "SQL"],
+    ["sklearn", "scikit-learn"],
+    ["Natural Language Processing", "NLP"],
+    ["CV", "Computer Vision"],
+    ["GQL", "GraphQL"]
+  ],
+  "is_a": [
+    ["PyTorch", "Deep Learning Framework"],
+    ["TensorFlow", "Deep Learning Framework"],
+    ["Deep Learning Framework", "Deep Learning"],
+    ["Deep Learning", "Machine Learning"],
+    ["scikit-learn", "Machine Learning"],
+    ["NLP", "Machine Learning"],
+    ["Computer Vision", "Machine Learning"],
+    ["Docker", "Containerization"],
+    ["Kubernetes", "Containerization"],
+    ["AWS", "Cloud"],
+    ["GCP", "Cloud"],
+    ["Azure", "Cloud"],
+    ["Neo4j", "Knowledge Graphs"],
+    ["Cypher", "Knowledge Graphs"],
+    ["React", "Frontend"],
+    ["FastAPI", "Backend"],
+    ["Django", "Backend"],
+    ["Apache Spark", "Data Engineering"],
+    ["ETL", "Data Engineering"],
+    ["Ontology Engineering", "Reasoning Systems"],
+    ["Knowledge Graphs", "Reasoning Systems"]
+  ],
+  "requires_skill": [
+    ["Kubernetes", "Containerization"],
+    ["PyTorch", "Python"],
+    ["TensorFlow", "Python"],
+    ["scikit-learn", "Python"],
+    ["FastAPI", "Python"],
+    ["Django", "Python"],
+    ["Cypher", "Neo4j"],
+    ["Apache Spark", "Data Engineering"]
+  ],
+  "related_to": [
+    ["Neo4j", "GraphQL", 0.6],
+    ["Knowledge Graphs", "Reasoning Systems", 0.9],
+    ["NLP", "Knowledge Graphs", 0.5],
+    ["Docker", "CI/CD", 0.5],
+    ["Pandas", "Python", 0.7],
+    ["Pandas", "Data Engineering", 0.6],
+    ["GraphQL", "REST API", 0.6],
+    ["Cypher", "SQL", 0.5]
+  ]
+}

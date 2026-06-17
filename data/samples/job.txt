@@ -1,0 +1,16 @@
+Senior ML Platform Engineer — Acme AI
+
+We are hiring a Senior ML Platform Engineer to build our knowledge-graph-driven
+reasoning systems.
+
+Required:
+- Strong Python (5+ years)
+- Deep Learning experience
+- Kubernetes for deploying model services
+- Knowledge Graphs
+
+Nice to have:
+- GraphQL
+- Neo4j / Cypher
+
+Education: Bachelor's degree in Computer Science or related field.
